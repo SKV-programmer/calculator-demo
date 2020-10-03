@@ -8,7 +8,7 @@ We've prepared this sample project for you to use as a starting point and take y
 
 This app has all basic features you would expect from a calculator.
 
-<img width="311" alt="calculator" src="https://user-images.githubusercontent.com/10005645/94406684-04a87780-0190-11eb-957d-a91c7438b3b0.png">
+<img width="311" alt="calculator" src="https://github.com/SKV-programmer/imagesforprojects/blob/main/Screenshot%2010-03-2020%2023.23.32.jpg">
 
 **Give it a try here: [progate-community.github.io/calculator-demo](https://progate-community.github.io/calculator-demo)**
 
